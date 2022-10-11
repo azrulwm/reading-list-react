@@ -2,13 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import { ThemeContextProvider } from "./contexts/ThemeContext";
+import BookContextProvider from "./contexts/BookContext";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <ThemeContextProvider>
+    <BookContextProvider>
       <App />
-    </ThemeContextProvider>
+    </BookContextProvider>
   </React.StrictMode>
 );

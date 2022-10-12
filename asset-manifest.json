@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reading-list-react/static/css/main.21c7d1f3.css",
+    "main.js": "/reading-list-react/static/js/main.e21889a6.js",
+    "index.html": "/reading-list-react/index.html",
+    "main.21c7d1f3.css.map": "/reading-list-react/static/css/main.21c7d1f3.css.map",
+    "main.e21889a6.js.map": "/reading-list-react/static/js/main.e21889a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c7d1f3.css",
+    "static/js/main.e21889a6.js"
+  ]
+}
